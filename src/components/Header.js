@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import logo from '../images/logo.png'
+import logo from '../images/GrubGologo.png'
 import profile from '../images/profile.jpeg'
 import { BarChart, SearchRounded, ShoppingCartRounded } from '@mui/icons-material'
 
